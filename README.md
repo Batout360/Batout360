@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="batout360's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 <p align="center">
   <a href="https://github.com/batout360">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=176ade&fontSize=54&height=90&width=730&text=Hello!%20I'm%20Batout360" alt="Hello! I&#39;m Batout360" />
